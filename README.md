@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Kaouthar ✌️</h2>
 
-<!--
-**Kaouthar-tns/Kaouthar-tns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻Computer science student.<br>
+🔥 Passionate about **web dev and AI**.<br>
+🚀 Always learning, always building.<br>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django,sqlite,java" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,figma,discord" /><br>
+</div>
+
+
+<hr>
+
+### 📊 GitHub Stats: 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaouthar-tns&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaouthar-tns&theme=blue-green&hide_border=false">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaouthar-tns&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
+
