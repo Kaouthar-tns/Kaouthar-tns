@@ -19,7 +19,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaouthar-tns&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaouthar-tns&theme=blue-green&hide_border=false">
 </div>
 
 <div align="center">
